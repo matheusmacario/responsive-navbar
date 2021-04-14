@@ -1,2 +1,14 @@
-# responsive-navbar
- a simple responsive navigation bar
+# Responsive navigation bar
+ *a simplistc responsive, animated and stylized navigation bar
+<br>
+### Objective
+-put javascrip and css studies into practice
+<br>
+### Some Screenshots
+<br>
+
+![screenshot_web](https://github.com/matheusmacario/responsive-navbar/blob/main/screenshot-web.JPG)
+
+![screenshot_mobile](https://github.com/matheusmacario/responsive-navbar/blob/main/screenshot-mobile.JPG)
+
+![screenshot_mobile_2](https://github.com/matheusmacario/responsive-navbar/blob/main/screenshot-mobile-2.JPG)
