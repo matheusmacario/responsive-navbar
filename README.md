@@ -4,6 +4,13 @@
 ### Objective
 -put javascrip and css studies into practice
 <br>
+
+### How it is
+<br>
+
+![gif](https://github.com/matheusmacario/responsive-navbar/blob/main/responsive_navbar.gif)
+
+
 ### Some Screenshots
 <br>
 
